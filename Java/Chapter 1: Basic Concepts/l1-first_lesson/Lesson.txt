@@ -1,0 +1,14 @@
+Java is one of the most popular programming languages in the world, and is used to make things like Android apps, banking backends, regular programs, web apps
+and more!
+
+Java's slogan is "Write once, run everywhere", meaning Java is meant to be run on different platforms regardless of what they are
+
+Here's a first look into Java programming:
+    System.out.println("Hello, Java!");
+
+
+Statements
+    A statement is a single line of code that preforms a specific task. The code above that prints "Hello, Java!" is a statement. Each statements must be ended
+    with a semicolon
+
+    When printing with System.out.println, text must be wrapped in quotes, but numbers don't. The thing to output must still be in the parentheses though 
