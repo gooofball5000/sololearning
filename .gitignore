@@ -1,2 +1,8 @@
 # Exclude compiled binaries
 a.out
+
+# Exclude .swp files made by nano
+*.swp
+
+# Exclude compiled java class files
+*.class
